@@ -1,6 +1,8 @@
 # Algorithm_04
 
 #첫번째
+
+
 ![1](https://user-images.githubusercontent.com/94188547/173534544-b666a59b-f8c0-4619-a529-65384358fe6b.PNG)
 ![2](https://user-images.githubusercontent.com/94188547/173534592-5b3a00ff-1847-4c44-91bf-49c200b66626.PNG)
 ![3](https://user-images.githubusercontent.com/94188547/173534603-7a28a949-e7b9-4778-ac8f-118c20d5b22b.PNG)
@@ -9,6 +11,8 @@
 ![6](https://user-images.githubusercontent.com/94188547/173534642-a6b0abcc-8d89-47a1-88e5-fa4b824dde63.PNG)
 
 #두번째
+
+
 ![7](https://user-images.githubusercontent.com/94188547/173534665-8a67955c-41c8-4eb1-91ed-8a4215d9be03.PNG)
 ![8](https://user-images.githubusercontent.com/94188547/173534671-c2071642-0797-40ba-bb5d-c5cf2585e08e.PNG)
 ![9](https://user-images.githubusercontent.com/94188547/173534678-87d654ac-27a2-4465-93e1-a421b1ae3360.PNG)
@@ -17,6 +21,8 @@
 ![12](https://user-images.githubusercontent.com/94188547/173534717-a5dc0322-cbc0-40b2-bb61-b24d5e263912.PNG)
 
 #세번째
+
+
 ![13](https://user-images.githubusercontent.com/94188547/173534769-f911bafd-8ca6-40c0-a9cf-7c3cca7301e5.PNG)
 ![14](https://user-images.githubusercontent.com/94188547/173534777-9e66eb49-82f2-4f66-87ea-90bf889028ae.PNG)
 ![15](https://user-images.githubusercontent.com/94188547/173534790-fc575fd9-a578-48b4-8ddd-970b5b6845dc.PNG)
@@ -26,6 +32,8 @@
 
 
 #코드
+
+
 mport library
 import tensorflow as tf
 from tensorflow import keras
