@@ -1,4 +1,4 @@
-# Algorithm_04
+# Algorithm_04 - 20170458 최주호
 
 #첫번째
 
